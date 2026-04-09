@@ -28,6 +28,7 @@ app.add_middleware(
         "http://localhost:8080",        
         "http://127.0.0.1:8080",
         "https://recommendserver-920l.onrender.com",
+        "ximingzi.top",
     ], 
     allow_credentials=True,
     allow_methods=["*"],
