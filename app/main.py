@@ -50,7 +50,10 @@ class TextRecommendRequest(BaseModel):
 def api_response(data, message: str = "success", code: int = 0):
     return {"code": code, "message": message, "data": data}
 
-
+@app.get("/")
+def root():
+    return {"msg": "backend running", "cors": "v2"}
+    
 @app.get("/api/health")
 async def health():
     return api_response({"status": "ok", "service": "project1-backend"})
