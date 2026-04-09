@@ -1,0 +1,7 @@
+<svg width="480" height="480" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="480" height="480" rx="32" fill="#F5EFE7"/>
+  <rect x="68" y="64" width="344" height="352" rx="24" fill="#E7D9C9"/>
+  <path d="M240 132C217.909 132 200 149.909 200 172V200H182C168.745 200 158 210.745 158 224C158 232.059 162.986 239.284 170.53 242.117L191 249.8V348C191 358.493 199.507 367 210 367H270C280.493 367 289 358.493 289 348V249.8L309.47 242.117C317.014 239.284 322 232.059 322 224C322 210.745 311.255 200 298 200H280V172C280 149.909 262.091 132 240 132Z" fill="#5B4736"/>
+  <circle cx="240" cy="128" r="34" fill="#C8A58A"/>
+  <text x="240" y="430" text-anchor="middle" fill="#5B4736" font-size="28" font-family="Arial, sans-serif">Project1 Product</text>
+</svg>

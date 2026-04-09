@@ -1,0 +1,387 @@
+[
+  {
+    "query_type": "text",
+    "query": "白色连衣裙",
+    "matched_ids": [
+      1,
+      2,
+      11
+    ],
+    "created_at": "2026-03-30T18:10:00"
+  },
+  {
+    "query_type": "text",
+    "query": "复古波点裙",
+    "matched_ids": [
+      14,
+      1,
+      13
+    ],
+    "created_at": "2026-03-30T18:15:00"
+  },
+  {
+    "query_type": "image",
+    "query": "图片检索:蓝色",
+    "matched_ids": [
+      4,
+      8,
+      12
+    ],
+    "created_at": "2026-03-30T18:18:00"
+  },
+  {
+    "query_type": "text",
+    "query": "白色复古连衣裙",
+    "matched_ids": [
+      1,
+      14,
+      3
+    ],
+    "created_at": "2026-03-31T19:32:04"
+  },
+  {
+    "query_type": "text",
+    "query": "白色复古连衣裙",
+    "matched_ids": [
+      1,
+      14,
+      3,
+      13,
+      2,
+      4,
+      10,
+      5
+    ],
+    "created_at": "2026-04-01T19:55:51"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T19:55:59"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T19:56:00"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T19:56:02"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T19:56:08"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T19:56:10"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T19:58:06"
+  },
+  {
+    "query_type": "text",
+    "query": "白色复古连衣裙",
+    "matched_ids": [
+      1,
+      14,
+      3,
+      13,
+      2,
+      4,
+      10,
+      5
+    ],
+    "created_at": "2026-04-01T20:00:23"
+  },
+  {
+    "query_type": "text",
+    "query": "白色复古连衣裙",
+    "matched_ids": [
+      1,
+      14,
+      3,
+      13,
+      2,
+      4,
+      10,
+      5
+    ],
+    "created_at": "2026-04-01T20:00:26"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T20:01:22"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T20:01:24"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T20:06:08"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T20:06:50"
+  },
+  {
+    "query_type": "text",
+    "query": "白色复古连衣裙",
+    "matched_ids": [
+      1,
+      14,
+      3,
+      13,
+      2,
+      4,
+      10,
+      5
+    ],
+    "created_at": "2026-04-01T20:09:37"
+  },
+  {
+    "query_type": "text",
+    "query": "白色复古连衣裙",
+    "matched_ids": [
+      1,
+      14,
+      3,
+      13,
+      2,
+      4,
+      10,
+      5
+    ],
+    "created_at": "2026-04-01T20:09:44"
+  },
+  {
+    "query_type": "text",
+    "query": "白色复古连衣裙",
+    "matched_ids": [
+      1,
+      14,
+      3,
+      13,
+      2,
+      4,
+      10,
+      5
+    ],
+    "created_at": "2026-04-01T20:09:48"
+  },
+  {
+    "query_type": "text",
+    "query": "白色复古连衣裙",
+    "matched_ids": [
+      1,
+      14,
+      3,
+      13,
+      2,
+      4,
+      10,
+      5
+    ],
+    "created_at": "2026-04-01T20:10:03"
+  },
+  {
+    "query_type": "text",
+    "query": "白色复古连衣裙",
+    "matched_ids": [
+      1,
+      14,
+      3,
+      13,
+      2,
+      4,
+      10,
+      5
+    ],
+    "created_at": "2026-04-01T20:10:05"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T20:10:35"
+  },
+  {
+    "query_type": "text",
+    "query": "蓝色通勤衬衫",
+    "matched_ids": [
+      12,
+      15,
+      5,
+      2,
+      6,
+      7,
+      11,
+      4
+    ],
+    "created_at": "2026-04-01T20:10:43"
+  },
+  {
+    "query_type": "image",
+    "query": "图片检索:卡其色",
+    "matched_ids": [
+      6,
+      15,
+      1,
+      2,
+      3,
+      13,
+      4,
+      10
+    ],
+    "created_at": "2026-04-01T20:12:23"
+  },
+  {
+    "query_type": "image",
+    "query": "图片检索:卡其色",
+    "matched_ids": [
+      6,
+      15,
+      1,
+      2,
+      3,
+      13,
+      4,
+      10
+    ],
+    "created_at": "2026-04-01T20:12:39"
+  },
+  {
+    "query_type": "image",
+    "query": "图片检索:卡其色",
+    "matched_ids": [
+      6,
+      15,
+      1,
+      2,
+      3,
+      13,
+      4,
+      10
+    ],
+    "created_at": "2026-04-01T20:14:36"
+  }
+]
